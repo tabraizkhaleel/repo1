@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 3424-1C3B
-
- Directory of C:\Users\user\Desktop\khaleelproject
-
-09/17/2019  10:56 AM    <DIR>          .
-09/17/2019  10:56 AM    <DIR>          ..
-09/17/2019  10:56 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  81,168,949,248 bytes free
+Change 1
